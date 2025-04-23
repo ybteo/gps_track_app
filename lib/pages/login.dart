@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:gpsapp/constant/const.dart';
 import 'package:gpsapp/constant/textstyle.dart';
-import 'package:gpsapp/widgets/bottomNaviBar.dart';
-import 'package:gpsapp/widgets/buttonStyle.dart';
+import 'package:gpsapp/widgets/bottom_navi_bar.dart';
+import 'package:gpsapp/widgets/button_style.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

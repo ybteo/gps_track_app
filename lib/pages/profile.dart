@@ -4,7 +4,7 @@ import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:gpsapp/constant/const.dart';
 import 'package:gpsapp/constant/textstyle.dart';
 import 'package:gpsapp/pages/login.dart';
-import 'package:gpsapp/widgets/buttonStyle.dart';
+import 'package:gpsapp/widgets/button_style.dart';
 
 class ProfilePage extends StatefulWidget {
   const ProfilePage({super.key});

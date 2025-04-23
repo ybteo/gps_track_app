@@ -3,7 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:gpsapp/constant/const.dart';
 import 'package:gpsapp/constant/textstyle.dart';
-import 'package:gpsapp/pages/outsideRecordPage.dart';
+import 'package:gpsapp/pages/outside_record_page.dart';
 import 'package:intl/intl.dart';
 
 class HistoryPage extends StatefulWidget {

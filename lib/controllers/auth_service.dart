@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:gpsapp/pages/login.dart';
-import 'package:gpsapp/widgets/bottomNaviBar.dart';
+import 'package:gpsapp/widgets/bottom_navi_bar.dart';
 
 class AuthService extends StatelessWidget {
   AuthService({super.key});

@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:gpsapp/data%20model/clockInOutData.dart';
+import 'package:gpsapp/data%20model/clock_in_out_data.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
